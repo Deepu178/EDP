@@ -82,6 +82,13 @@ p.danger {
 	color: red;
 }
 /************ Navbar Css ************/
+.logo{
+  color: white;
+  letter-spacing: 0.1rem;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
 nav.navbar {
   padding: 18px 0;
   position: fixed;
